@@ -81,6 +81,7 @@ body {
 	margin: 0 -20px;
 	padding: 0 0 40px 0;
 	position: relative;
+	
 }
 
 .row:last-child {
@@ -548,6 +549,8 @@ button {
 	vertical-align: top;
 	border: none;
 	cursor: pointer;
+	background-color: #fdd912;
+	padding: 15px 32px;
 }
 
 label,
